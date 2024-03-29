@@ -64,6 +64,7 @@ namespace ProjetoDeVendas
                             string opcoes1 = Console.ReadLine();
 
 
+
                         }
                         else
                         {
